@@ -1,0 +1,35 @@
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+/CMakeFiles/
+/CMakeCache.txt
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.user
+*.suo
+
+# Logs and temp files
+*.log
+*.tmp
+*~
+*.swp
+.DS_Store

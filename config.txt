@@ -1,0 +1,5 @@
+# Configuration file
+model_path: ./models
+ckpt_name: checkpoint
+learning_rate: 0.001
+Alpha: 15
