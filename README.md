@@ -2,8 +2,8 @@
 
 A C++ framework combining classical **data structures** and a **simple Multi-Layer Perceptron (MLP)** neural network for educational purposes.
 
-[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)  
-[![xtensor](https://img.shields.io/badge/xtensor-0.24-orange.svg)](https://xtensor.readthedocs.io/)  
+[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
+[![xtensor](https://img.shields.io/badge/xtensor-0.24-orange.svg)](https://xtensor.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-MIT%20%7C%20GPLv3-green.svg)](LICENSE)
 
 ## Overview
